@@ -1,3 +1,3 @@
 package dump
 
-const Version = "17.04.0-ce"
+const Version = "2.0.0"
