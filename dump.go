@@ -1,3 +1,3 @@
 package dump
 
-const Version = "17.04.0-ce"
+const Version = "api/v1.0.0"
